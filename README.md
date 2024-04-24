@@ -6,7 +6,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## API Generators
 
-## API Documentation Tools
+## API Documentation
+
+### Great API Documentation Examples
+
+* [Stripe](https://docs.stripe.com/): The pinnacle of API documentation.
+* [Twilio](https://www.twilio.com/docs): Another amazing set of documentation.
 
 ## API Testing Clients
 
