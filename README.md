@@ -1,5 +1,7 @@
 # Awesome REST APIs
 
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 A curated list of awesome REST API resources.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
