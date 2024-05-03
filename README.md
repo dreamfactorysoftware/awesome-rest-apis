@@ -25,6 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Insomnia](https://insomnia.rest/): Free and subscription versions available.
 * [Postman](https://www.postman.com/): The OG API client. Free version available in addition to subscription options.
 * [SOAPUI](https://www.soapui.org/): Paid product, offers additional testing and performance features.
+* [curl](https://everything.curl.dev/): This is a great e-book about curl written by the curl author himself Daniel Stenberg.
 
 ## API Client Library Generator
 
@@ -34,4 +35,5 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [JSON Crack](https://jsoncrack.com/) - Visualize JSON strings.
 * [jq](https://jqlang.github.io/jq/) - Command-line JSON processor. Like sed, but for JSON.
-* [CSV2JSON](https://csvjson.com/) - Title says it all.
+* [CSV2JSON](https://csvjson.com/) - A website that... converts CSV to JSON.
+* [JSONPath Online Evaluator](https://jsonpath.com/): Nice utility for executing JSONPath commands against JSON strings.
