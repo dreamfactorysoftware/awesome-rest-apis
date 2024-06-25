@@ -37,3 +37,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jq](https://jqlang.github.io/jq/) - Command-line JSON processor. Like sed, but for JSON.
 * [CSV2JSON](https://csvjson.com/) - A website that... converts CSV to JSON.
 * [JSONPath Online Evaluator](https://jsonpath.com/): Nice utility for executing JSONPath commands against JSON strings.
+
+## DNS
+
+* [DNS Swiss Army Knife](https://dnschecker.org/all-tools.php): Bunch of useful DNS-related tools.
