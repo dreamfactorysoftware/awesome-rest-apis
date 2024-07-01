@@ -18,14 +18,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Stripe](https://docs.stripe.com/): The pinnacle of API documentation, includes interactive testing.
 * [Twilio](https://www.twilio.com/docs): Another amazing set of documentation.
 
+### API Learning Resources
+
+* [curl](https://everything.curl.dev/): This is a great e-book about curl written by the curl author himself Daniel Stenberg.
+
 ## API Testing Clients
 
 * [Bruno](https://www.usebruno.com/): OSS version available, additional features available for small one-time payment.
+* [GetAPI](https://getapi.com/): Native macOS app built the by [TablePlus](https://tableplus.com/) team.
 * [httpie](https://httpie.io/): Also OSS, but offers a desktop client, web version, and CLI.
 * [Insomnia](https://insomnia.rest/): Free and subscription versions available.
 * [Postman](https://www.postman.com/): The OG API client. Free version available in addition to subscription options.
 * [SOAPUI](https://www.soapui.org/): Paid product, offers additional testing and performance features.
-* [curl](https://everything.curl.dev/): This is a great e-book about curl written by the curl author himself Daniel Stenberg.
+
 
 ## API Client Library Generator
 
