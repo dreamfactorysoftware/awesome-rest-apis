@@ -30,7 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Insomnia](https://insomnia.rest/): Free and subscription versions available.
 * [Postman](https://www.postman.com/): The OG API client. Free version available in addition to subscription options.
 * [SOAPUI](https://www.soapui.org/): Paid product, offers additional testing and performance features.
-
+* [Posting](https://github.com/darrenburns/posting): Terminal-based API client.
 
 ## API Client Library Generator
 
